@@ -18,5 +18,5 @@ Publicação do Projeto no Git Hub
 
 #Colaboradores:
 
-Neston Vaz
-Fábio Vaz
+- Neston Vaz
+- Fábio Vaz
