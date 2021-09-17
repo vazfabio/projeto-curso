@@ -2,7 +2,7 @@
 
 Projeto realizado no curso de Front End
 
-# CONTEÚDOS ABRODADOS!
+# Conteúdos Abordados!
 
 HTML 5 - Estrutura e Principais Tags
 
@@ -18,5 +18,5 @@ Publicação do Projeto no Git Hub
 
 #Colaboradores:
 
-- Neston Vaz
+- Newton Vaz
 - Fábio Vaz
